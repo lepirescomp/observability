@@ -104,7 +104,7 @@ KPI/Plan as follows:
 
 ## Dashboard for the KPIs monitoring
 
-![Screenshot](/im/finaldhasboard.png)
+![Screenshot](/img/finaldhasboard.png)
 
 
 
